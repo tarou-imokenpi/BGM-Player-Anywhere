@@ -54,4 +54,4 @@
 以下のデータが保存されています。
 * 横幅、縦幅
 ## exe化
-main.pyのexe化には`Nuitka`(PythonコードをCソース コードにコンパイルするコンパイラー)を使いexe化してます。
+main.pyのexe化には`Nuitka`を使いexe化してます。
